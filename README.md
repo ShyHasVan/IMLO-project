@@ -2,6 +2,8 @@
 
 ## Project Overview
 The project uses the Flowers102 dataset to train a deep convolutional neural network. The model architecture consists of several convolutional layers followed by fully connected layers. The training process includes data augmentation techniques such as random horizontal flip and random rotation to improve the generalization of the model.
+ 
+## View the Classification Report pdf for an in-depth review of the process.
 
 ### Prerequisites 
 
